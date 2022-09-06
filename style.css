@@ -1,0 +1,13 @@
+body {
+    font-family: neue-haas-grotesk-text, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+nav { padding-top:20px; }
+.underline { text-decoration: underline;}
+a { color:#000; text-decoration:none; }
+a:hover { color:#ff8800; text-decoration: underline; }
+.b-top { border-top:1px solid #000; }
+.b-bottom { border-bottom:1px solid #000; }
+.p-top { padding-top:60px; }
+.p-bottom { padding-bottom:60px; }
